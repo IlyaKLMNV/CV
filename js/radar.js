@@ -549,7 +549,7 @@ const data = {
         "UX/UI",
         "CMS",
         "Дизайн",
-        "Адаптивная верстка",
+        "Адаптив",
         "JavaScript"
     ],
     datasets: [

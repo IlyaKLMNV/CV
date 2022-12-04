@@ -321,7 +321,7 @@ h2 {
 	padding-top: 20px;
 	}
 	.photo_img {
-		width: 60%;
+		width: 40%;
 		min-height: 350px;
 		grid-row-start: 1;
 		grid-row-end: 1;
@@ -329,6 +329,8 @@ h2 {
 	.pentagon {
 		grid-row-start: 2;
 		grid-row-end: 2;
+		min-width: 70%;
+		margin: 0 auto;
 	}
 }
 
@@ -363,7 +365,7 @@ h2 {
 	}
 }
 
-@media (max-width: 385px) {
+@media (max-width: 300px) {
 	.pentagon {
 		display: none;
 	}
