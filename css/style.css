@@ -74,9 +74,18 @@ h2 {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 
+.chart-container {
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
 .pentagon {
 	font-family: 'Noto Sans Display', sans-serif;
 	will-change: transform;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
 }
 
 .top-part_photo {
@@ -288,8 +297,13 @@ h2 {
 		display: grid;
 		grid-template-columns: 1fr;
 	}
-	.photo_img {
+	.top-part_photo {
 		height: 400px;
+	}
+	.photo_img {
+		height: 90%;
+		width: 40%;
+		
 	}
 	.icons {
 		display: grid;
@@ -335,5 +349,8 @@ h2 {
 	}
 	.icon {
 		text-align: center;
+	}
+	.pentagon {
+		display: none;
 	}
 }
