@@ -53,6 +53,7 @@ body, html{
 }
 
 .top-part h1 {
+	padding-top: 20px;
 	font-size: calc(var(--sizeindex) * 1.4);
 	letter-spacing: 1px;
 	text-align: center;
