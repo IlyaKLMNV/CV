@@ -625,7 +625,7 @@ new (0, _auto.Chart)(document.getElementById("radar"), {
                     font: {
                         family: "'Open Sans', sans-serif",
                         weight: 500,
-                        size: 16,
+                        size: 15,
                         color: "#161825",
                     }
                 },
