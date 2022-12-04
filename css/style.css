@@ -213,6 +213,7 @@ h2 {
 	margin: 20px 15% 30px 15%;
 	border-bottom: 1px solid rgb(0, 0, 0, 0.5);
 	justify-content: center;
+	background-color: whitesmoke;
 }
 
 .button-nav {
@@ -351,6 +352,5 @@ h2 {
 		text-align: center;
 	}
 	.pentagon {
-		display: none;
 	}
 }
