@@ -217,6 +217,7 @@ h2 {
 	align-items: center;
 	font-size: calc(var(--sizeindex) * 1.1);
 	margin-bottom: 5px;
+	background-color: transparent;
 }
 
 .shevron {
