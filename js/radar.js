@@ -558,9 +558,9 @@ const data = {
             data: [
                 50,
                 40,
-                50,
-                55,
-                30
+                80,
+                65,
+                60
             ],
             fill: true,
             backgroundColor: [
