@@ -547,7 +547,7 @@ var _auto = require("chart.js/auto");
 const data = {
     labels: [
         "UX/UI",
-        "CMS",
+        "Vue.js",
         "Дизайн",
         "Адаптив",
         "JavaScript"
